@@ -7,6 +7,6 @@ Snedig hjelper barn med matte: barnet regner med blyant på papir, viser arket t
 - **Mac** (Apple Silicon og Intel): `Snedig_…_universal.dmg`
 - **Windows 10/11**: `Snedig_…_x64-setup.exe`
 
-Les «Les meg – test av Snedig.md» i samme release før du installerer – den forklarer advarslene fra macOS og Windows (testversjonen er ikke signert ennå) og hvordan du sender tilbakemelding.
+Les «Les-meg-test-av-Snedig.md» i samme release før du installerer – den forklarer advarslene fra macOS og Windows (testversjonen er ikke signert ennå) og hvordan du sender tilbakemelding.
 
 Appen oppdaterer seg selv når en ny testversjon publiseres her.
